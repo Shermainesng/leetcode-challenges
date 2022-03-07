@@ -6,5 +6,3 @@ var mergeTwoLists = function (list1, list2) {
 };
 
 mergeTwoLists([1, 2, 4], [1, 3, 4]);
-
-//node javascript/merge-two-sorted-lists.js in terminal to run
