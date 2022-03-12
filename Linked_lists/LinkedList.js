@@ -150,4 +150,3 @@ myLinkedList.prepend(1);
 // console.log(myLinkedList.insert(2, 99));
 // console.log(myLinkedList.delete(4));
 // console.log(myLinkedList.reverse());
-console.log(myLinkedList.insert(4, [1, 2, 3]));
